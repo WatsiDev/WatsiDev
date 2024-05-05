@@ -3,6 +3,6 @@
 <h1> Probando el readme de github </h1>
 
 <p>
-  Mostrando pagina de github
+  Mostrando pagina de github <hr>
   Portafolio
 </p>
