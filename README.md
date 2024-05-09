@@ -1,10 +1,6 @@
 <img src="https://lh3.googleusercontent.com/a/ACg8ocIurHHyZHemsugbfTAhIGK_mkbI5gvmFYunVkP-sF115JAilEvq8UJoXELeowFTzj7cXkQ89D9HOLMpbbeSiQBVvjJV8SkS=s288-c-no" width="250">
 
-### Hi everyone, My name is Jair, I'm Developer jr. 👋 
+### Hi everyone, My name is Jair. 👋 
 
-<h1> Probando el readme de github </h1>
+ #### Bienvenidos a mi GitHub
 
-<p>
-  Mostrando pagina de github <hr>
-  Portafolio
-</p>
