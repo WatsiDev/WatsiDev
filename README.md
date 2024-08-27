@@ -4,3 +4,9 @@
 
  #### Welcome with my GitHub
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watsidev&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watsidev&layout=compact&theme=radical)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue)
+![Android](https://img.shields.io/badge/Android-Development-green)
