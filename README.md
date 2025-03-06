@@ -14,7 +14,7 @@ I'm passionate about technology and coding, and I believe in writing code that i
 
 ### 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watsidev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watsidev&show_icons=true&theme=midnight-purple)
 
 ---
 
