@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocIurHHyZHemsugbfTAhIGK_mkbI5gvmFYunVkP-sF115JAilEvq8UJoXELeowFTzj7cXkQ89D9HOLMpbbeSiQBVvjJV8SkS=s288-c-no" width="200" style="border-radius: 50%;">
-</p>
+<img src="https://drive.google.com/drive/u/0/folders/1JTYRE3RNEBDYu90bdvJw95WHQa4gOMah" alt="Banner">
 
-<p align="center" style="background: url('https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
+
   <h1 style="color: white;">Hi everyone, I'm Jair! 👋</h1>
   <p style="color: white;">Welcome to my GitHub! 🚀</p>
-</p>
+
 
 ---
 
