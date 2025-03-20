@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/u/0/folders/1JTYRE3RNEBDYu90bdvJw95WHQa4gOMah" alt="Banner">
+<img src="https://drive.google.com/file/d/1kQF2WqFADGWE_27raGRqoEC4s4-k2vaQ/view?usp=sharing" alt="Banner">
 
 
   <h1 style="color: white;">Hi everyone, I'm Jair! 👋</h1>
