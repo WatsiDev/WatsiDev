@@ -2,6 +2,10 @@
   <img src="https://lh3.googleusercontent.com/a/ACg8ocIurHHyZHemsugbfTAhIGK_mkbI5gvmFYunVkP-sF115JAilEvq8UJoXELeowFTzj7cXkQ89D9HOLMpbbeSiQBVvjJV8SkS=s288-c-no" width="200" style="border-radius: 50%;">
 </p>
 
+<p align="center">
+  <img src="https://source.unsplash.com/1600x900/?technology,code" width="100%">
+</p>
+
 <h1 align="center">Hi everyone, I'm Jair! 👋</h1>
 
 <p align="center">Welcome to my GitHub! 🚀</p>
