@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://source.unsplash.com/1600x900/?technology,code" width="100%">
+  <img src="https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg" width="100%">
 </p>
 
 <h1 align="center">Hi everyone, I'm Jair! 👋</h1>
