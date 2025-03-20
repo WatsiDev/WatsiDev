@@ -1,4 +1,4 @@
-![Banner](https://github.com/WatsiDev/WatsiDEv/blob/main/Rojo Blanco y Negro Maximalismo Moderno Deportes Outro de YouTube.jpg)
+![Banner](https://github.com/WatsiDev/WatsiDev/blob/main/banner.jpg)
 
 
   <h1 style="color: white;">Hi everyone, I'm Jair! 👋</h1>
