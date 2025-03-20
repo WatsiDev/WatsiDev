@@ -2,13 +2,10 @@
   <img src="https://lh3.googleusercontent.com/a/ACg8ocIurHHyZHemsugbfTAhIGK_mkbI5gvmFYunVkP-sF115JAilEvq8UJoXELeowFTzj7cXkQ89D9HOLMpbbeSiQBVvjJV8SkS=s288-c-no" width="200" style="border-radius: 50%;">
 </p>
 
-<p align="center">
-  <img src="https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg" width="100%">
+<p align="center" style="background: url('https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg'); background-size: cover; padding: 20px; border-radius: 10px;">
+  <h1 style="color: white;">Hi everyone, I'm Jair! 👋</h1>
+  <p style="color: white;">Welcome to my GitHub! 🚀</p>
 </p>
-
-<h1 align="center">Hi everyone, I'm Jair! 👋</h1>
-
-<p align="center">Welcome to my GitHub! 🚀</p>
 
 ---
 
