@@ -78,12 +78,12 @@
 ✔️ Exploring **Minecraft modding with Kotlin & Forge**.<br>
 
 ---
-
-### 🔧 I’m Currently Working On
-
-🚀 **Minecraft Mods** - Creating mods using **Kotlin & Forge**.<br>
-🌎 **Portfolio Expansion** - Adding more cool projects to my website.<br>
-🍽️ **Recetario de Cocina** - Improving authentication & API functionalities.<br>
+> [!IMPORTANT]
+>  ### 🔧 I’m Currently Working On
+>
+> 🚀 **Minecraft Mods** - Creating mods using **Kotlin & Forge**.<br>
+> 🌎 **Portfolio Expansion** - Adding more cool projects to my website.<br>
+> 🍽️ **Recetario de Cocina** - Improving authentication & API functionalities.<br>
 
 ---
 
