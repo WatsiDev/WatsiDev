@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=watsidev&show_icons=true&theme=midnight-purple" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watsidev&layout=compact&theme=radical" width="48%" />
 </p>
-
+![Streak](https://streak-stats.demolab.com?user=WatsiDev&theme=transparent&hide_border=true)
 ---
 
 ### 🛠️ Skills & Tools
