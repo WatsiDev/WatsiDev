@@ -19,10 +19,11 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watsidev&show_icons=true&theme=midnight-purple" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watsidev&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=watsidev&show_icons=true&theme=midnight-purple" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watsidev&layout=compact&theme=radical" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=WatsiDev&theme=midnight-purple&hide_border=true" width="32%" />
 </p>
-![Streak](https://streak-stats.demolab.com?user=WatsiDev&theme=transparent&hide_border=true)
+
 ---
 
 ### 🛠️ Skills & Tools
